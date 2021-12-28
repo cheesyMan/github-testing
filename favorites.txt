@@ -1,6 +1,19 @@
+=====
+FOODS
+=====
 Lasagne
 Pasta alla carbonara
 Filetto arrosto
 Gnocchi di patate
 Insalata russa
 Polpette al sugo
+
+======
+MOVIES
+======
+Qualcuno volò sul nido del cuculo
+Codice d'onore
+Star Wars ep.IV - Una nuova speranza
+Django unchained
+Castaway
+Shining
